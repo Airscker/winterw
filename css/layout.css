@@ -2,7 +2,7 @@
  * @Author: airscker
  * @Date: 2024-05-01 21:32:18
  * @LastEditors: airscker
- * @LastEditTime: 2024-05-02 02:05:32
+ * @LastEditTime: 2024-05-02 22:01:09
  * @Description: NULL
  * 
  * Copyright (C) 2024 by Airscker(Yufeng), All Rights Reserved. 
@@ -184,7 +184,7 @@ header .scrolldown a:hover {
 }
 
 .opaque {
-    background-color: #86a0fd;
+    background-color: #007dcb;
 }
 
 
@@ -231,7 +231,7 @@ ul#nav li a:active {
 }
 
 ul#nav li.current a {
-    color: #5d18b1;
+    color: #00da19;
 }
 
 
@@ -592,7 +592,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-    background: #75b2d8;
+    background: #11a4ff8a;
     padding-top: 90px;
     padding-bottom: 60px;
 }
@@ -603,7 +603,7 @@ ul#nav li.current a {
     letter-spacing: 1px;
     text-align: center;
     margin-bottom: 48px;
-    color: #3537c1;
+    color: #ffffff;
 }
 
 
